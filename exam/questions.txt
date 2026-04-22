@@ -1,0 +1,79 @@
+mid exam questions:
+Data Science Mid 2025 :
+
+Q1:
+Data : 3 8 11 15 17 20 30 130
+apply z-score normalization
+
+Q2: Discuss data preprocessing 
+
+Q3: Give 3 examples on Messy data , how to Manipulate them ?
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+(1) Give five sources of big data
+
+Social Media (Facebook, Instagram, Twitter)
+Sensors & IoT devices (smart watches, smart homes)
+Transaction systems (banking, e-commerce)
+Mobile apps (GPS, usage data)
+Web logs & websites (search engines, browsing history)
+
+
+(2) Characteristics of Big Data
+
+خصائص الـ Big Data (5V’s):
+
+Volume 
+Velocity
+Variety 
+Veracity
+Value 
+
+
+(3) Define messy data
+Missing values 
+Duplicate data 
+Inconsistent formats 
+Noise 
+
+
+(4) Process of Data Science
+
+Problem Definition 
+Data Collection 
+Data Cleaning 
+Data Analysis / Exploration
+Model Building 
+Evaluation 
+Deployment 
+
+
+
+
+(6) If you have messy data, how to manipulate it?
+
+Remove duplicates 
+Handle missing values (fill or delete)
+Standardization 
+Outlier detection & removal
+
+
+(7) Classification of Big Data with examples
+1. Structured Data
+Example: Excel sheets, SQL databases
+2. Semi-Structured Data
+Example: JSON, XML, Emails
+3. Unstructured Data
+Example: Images, videos, text files, audio
+
+
+
+(8) What is noisy data + three techniques to handle it
+Smoothing techniques (ex: binning)
+Removing outliers 
+Filtering / statistical methods (mean, median replacement)
+
+
+
+
